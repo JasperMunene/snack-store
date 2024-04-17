@@ -47,7 +47,7 @@ git clone https://github.com/codewithsadee/foodie.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter]https://x.com/Raphael38923960?t=bV2VAgZ6pM2tHF-rAw5ndw&s=09
 
 ### License
 
